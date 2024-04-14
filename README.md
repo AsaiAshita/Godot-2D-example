@@ -13,3 +13,7 @@ Jokes aside, all the features are the ones listed in the Godot Documentation.
 1. Highest Score reminder implemented (and there are the foundations for a leaderboard system)
 2. Press ESC to quit the game
 3. (More to come, maybe)
+# Screenshots
+
+![godot example 1](https://github.com/AsaiAshita/Godot-2D-example/assets/114286827/943dccbd-3265-4d2d-9433-7b18206cc94e)
+![godot example 2](https://github.com/AsaiAshita/Godot-2D-example/assets/114286827/7c1cbff6-833a-4c0f-acd6-4b278905b87d)
