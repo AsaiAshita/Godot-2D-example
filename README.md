@@ -7,6 +7,7 @@ A simple game where you need to avoid getting hit by the enemies around you for 
 2. Amazing Art!
 3. Oscar-worthy music!
 4. Local Leaderboard!
+
 Jokes aside, all the features are the ones listed in the Godot Documentation.
 # Extra Features
 1. Highest Score Implemented (and there are the foundations for a leaderboard system)
