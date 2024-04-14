@@ -10,6 +10,6 @@ A simple game where you need to avoid getting hit by the enemies around you for 
 
 Jokes aside, all the features are the ones listed in the Godot Documentation.
 # Extra Features
-1. Highest Score Implemented (and there are the foundations for a leaderboard system)
+1. Highest Score reminder implemented (and there are the foundations for a leaderboard system)
 2. Press ESC to quit the game
 3. (More to come, maybe)
